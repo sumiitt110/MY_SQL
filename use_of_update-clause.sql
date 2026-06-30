@@ -7,8 +7,6 @@ update customers
 set score=0
 where id=6;
 
-select*
-from customers;
 
 -- change the score of customer id 10 to 0and country to UK
 update customers
